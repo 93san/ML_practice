@@ -1,2 +1,1 @@
-# angularJS-practice
-Angular-JS Repo
+ML_practice
